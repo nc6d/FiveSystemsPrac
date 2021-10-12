@@ -1,4 +1,4 @@
-package com.fs.homework1;
+package task1;
 
 public class MyLinkedList {
 
